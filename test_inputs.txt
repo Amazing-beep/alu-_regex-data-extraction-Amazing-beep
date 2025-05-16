@@ -1,0 +1,8 @@
+Hello, contact us at support@example.com or admin@company.co.uk.
+Visit our site: https://www.example.com or https://sub.example.org/page.
+Call us at (123) 456-7890, 123-456-7890 or 123.456.7890.
+My card number is 1234 5678 9012 3456 or 1234-5678-9012-3456.
+The meeting is at 14:30 and the party is at 2:30 PM.
+Some HTML: <div class="box"><p>Hello</p></div>
+Trending topics include #AI, #MachineLearning.
+Prices are $19.99 and $1,234.56.
